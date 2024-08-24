@@ -4,7 +4,7 @@ height: 100%;
 top: -522px;
 left: -730px;
 gap: 0px;
-opacity: 0px;
+opacity: 1px;
 background: var(--Background-Default-Default, #FFFFFF);
 display:flex;
 flex-direction: row;
@@ -20,7 +20,7 @@ height: 100%;
 padding: 32px 0px 32px 0px;
 gap: 194px;
 border: 0px 1px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 background: #9B76D6;
 border-right: 1px solid #F2F4F7
 }
@@ -29,7 +29,7 @@ border-right: 1px solid #F2F4F7
     width: Fill (241px)px;
 height: Hug (512.95px)px;
 gap: 55px;
-opacity: 0px;
+opacity: 1px;
 text-align: center;
 
 }
@@ -39,7 +39,7 @@ text-align: center;
 height: 57.95px;
 left: 54.46px;
 gap: 0px;
-opacity: 0px;
+opacity: 1px;
 
 }
 
@@ -47,7 +47,7 @@ opacity: 0px;
     width: Fill (241px)px;
 height: Hug (400px)px;
 gap: 8px;
-opacity: 0px;
+opacity: 1px;
 text-align: center;
 
 }
@@ -68,7 +68,7 @@ padding: 12px 8px 12px 24px;
 gap: 12px;
 
 border: 0px 3px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 color: #BEFB7A;
 background: linear-gradient(90deg, rgba(190, 251, 122, 0) 42.53%, #BEFB7A 230.08%);
 border-right: 3px solid #BEFB7A
@@ -81,7 +81,7 @@ border-right: 3px solid #BEFB7A
 height: Hug (43px)px;
 padding: 12px 8px 12px 24px;
 gap: 12px;
-opacity: 0px;
+opacity: 1px;
 text-align: center;
 color: white;
 
@@ -91,7 +91,7 @@ color: white;
     width: Fill (241px)px;
 height: Hug (280px)px;
 gap: 8px;
-opacity: 0px;
+opacity: 1px;
 
 }
 
@@ -101,7 +101,7 @@ opacity: 0px;
 height: 0px;
 gap: 0px;
 border: 1px 0px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 border: 1px solid
 
 
@@ -112,7 +112,7 @@ border: 1px solid
 height: Hug (68px)px;
 padding: 12px 8px 12px 24px;
 gap: 12px;
-opacity: 0px;
+opacity: 1px;
 
 }
 
@@ -120,7 +120,7 @@ opacity: 0px;
     width: Fill (155px)px;
 height: Hug (44px)px;
 gap: 8px;
-opacity: 0px;
+opacity: 1px;
 color: white;
 display: flex;
 flex-direction: column;
@@ -136,7 +136,7 @@ left: 241px;
 padding: 20px 32px 21px 21px;
 gap: 0px;
 border: 0px 0px 1px 0px;
-opacity: 0px;
+opacity: 1px;
 background: #FCFCFD;
 border-bottom: 1px solid #F2F4F7
 }
@@ -147,7 +147,7 @@ height: 22px;
 top: 27px;
 left: 21px;
 gap: 0px;
-opacity: 0px;
+opacity: 1px;
 font-family: Inter;
 font-size: 18px;
 font-weight: 600;
@@ -164,7 +164,7 @@ padding: 8px 0px 0px 0px;
 gap: 8px;
 border-radius: 8px 0px 0px 0px;
 border: 1px 0px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 
 }
 
@@ -175,7 +175,7 @@ padding: 8px 0px 0px 0px;
 gap: 8px;
 border-radius: 8px 0px 0px 0px;
 border: 1px 0px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 
 }
 
@@ -190,7 +190,7 @@ padding: 16px;
 gap: 24px;
 border-radius: 12px 0px 0px 0px;
 border: 2px 0px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 background: #FFFFFF;
 border: 2px solid #F2F4F7
 
@@ -200,7 +200,7 @@ border: 2px solid #F2F4F7
     width: 761px;
 height: 17px;
 gap: 0px;
-opacity: 0px;
+opacity: 1px;
 font-family: Inter;
 font-size: 14px;
 font-weight: 500;
@@ -217,7 +217,7 @@ color: #344054;
     width: Fill (761px)px;
 height: Hug (154px)px;
 gap: 8px;
-opacity: 0px;
+opacity: 1px;
 
 }
 
@@ -233,7 +233,7 @@ line-height: 16.94px;
 text-align: left;
 border-radius: 8px 0px 0px 0px;
 border: 1px 0px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 background: #FCFCFD;
 border: 1px solid #F9FAFB
 
@@ -251,7 +251,7 @@ border: 1px solid #F9FAFB
     border-radius: 12px;
     border-width: 10px;
     border-style: solid; /* Add border-style to make the border visible */
-    opacity: 1; /* Set opacity to 1 to ensure visibility */
+    opacity: 1px; /* Set opacity to 1 to ensure visibility */
 }
 
 
@@ -262,7 +262,7 @@ justify-content: space-between;
     width: Fill (761px)px;
 height: Hug (32px)px;
 gap: 0px;
-opacity: 0px;
+opacity: 1px;
 
 }
 
@@ -270,7 +270,7 @@ opacity: 0px;
     width: 116px;
 height: 17px;
 gap: 0px;
-opacity: 0px;
+opacity: 1x;
 font-family: Inter;
 font-size: 14px;
 font-weight: 500;
@@ -285,7 +285,7 @@ color: #AD8EDD;
 height: Hug (32px)px;
 gap: 8px;
 border: var(--sds-responsive-border-width);
-opacity: 0px;
+opacity: 1px;
 display: flex;
 flex-direction: row;
 }
@@ -296,7 +296,7 @@ height: Hug (32px)px;
 padding: var(--sds-size-space-200);
 gap: var(--sds-size-space-200);
 border-radius: var(--sds-size-radius-200);
-opacity: 0px;
+opacity: 1px;
 
 }
 
@@ -306,7 +306,7 @@ height: 52px;
 padding: var(--sds-size-space-200);
 gap: var(--sds-size-space-200);
 border-radius: 8px 0px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 background-color: #F1EBF9;
 text-align: center;
 
@@ -322,7 +322,7 @@ padding: 16px;
 gap: 18px;
 border-radius: 12px 0px 0px 0px;
 border: 2px 0px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 background: #FFFFFF;
 
 border: 2px solid #F2F4F7;
@@ -333,7 +333,7 @@ border: 2px solid #F2F4F7;
     width: 294px;
 height: 17px;
 gap: 0px;
-opacity: 0px;
+opacity: 1px;
 font-family: Inter;
 font-size: 14px;
 font-weight: 500;
@@ -357,7 +357,7 @@ gap: 12px;
 margin: 10px;
 border-radius: 12px 0px 0px 0px;
 border: 1px 0px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 color: black;
 border: 1px solid #EAECF0
 }
@@ -368,7 +368,7 @@ gap: 0px;
 display: flex;
 flex-direction: row;
 justify-content: space-between;
-opacity: 0px;
+opacity: 1px;
 
 }
 
@@ -381,7 +381,7 @@ padding: 16px;
 gap: 18px;
 border-radius: 12px 0px 0px 0px;
 border: 2px 0px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 background: #FFFFFF;
 
 border: 2px solid #F2F4F7
@@ -391,7 +391,7 @@ border: 2px solid #F2F4F7
     width: 294px;
 height: 17px;
 gap: 0px;
-opacity: 0px;
+opacity: 1px;
 font-family: Inter;
 font-size: 14px;
 font-weight: 500;
@@ -408,7 +408,7 @@ padding: 12px 17px 12px 17px;
 gap: 8px;
 border-radius: 12px 0px 0px 0px;
 border: 1px 0px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 background: #FCFCFD;
 border: 1px solid #EAECF0
 }
@@ -420,7 +420,7 @@ gap: 0px;
 display: flex;
 flex-direction: row;
 justify-content: space-between;
-opacity: 0px;
+opacity: 1px;
 
 }
 
@@ -428,7 +428,7 @@ opacity: 0px;
     width: Hug (90px)px;
 height: Hug (19px)px;
 gap: 2px;
-opacity: 0px;
+opacity: 1px;
 font-family: Inter;
 font-size: 16px;
 font-weight: 700;
@@ -443,7 +443,7 @@ color: var(--Text-Positive-Tertiary, #14AE5C);
 height: 24px;
 padding: 6.5px 0px 0px 0px;
 gap: 0px;
-opacity: 0px;
+opacity: 1px;
 
 }
 
@@ -453,7 +453,7 @@ height: Hug (23px)px;
 display: flex;
 flex-direction: row;
 gap: 10px;
-opacity: 0px;
+opacity: 1px;
 
 }
 .ctrade{
@@ -464,7 +464,7 @@ background: #F2F4F7;
 
 gap: 8px;
 border-radius: 32px 0px 0px 0px;
-opacity: 0px;
+opacity: 1px;
 font-family: Inter;
 font-size: 12px;
 font-weight: 500;
